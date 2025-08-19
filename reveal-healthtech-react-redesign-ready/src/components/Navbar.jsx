@@ -8,7 +8,7 @@ export default function Navbar() {
     <header className="navbar">
       <div className="container nav-inner">
        <div className="logo">
-        <img src="/logo.jpg" alt="logo" />
+        <img src="https://i.postimg.cc/fT4tmvSC/logo.jpg" alt="logo" />
        </div>
         <button
           className={`hamburger ${open ? "is-active" : ""}`}
