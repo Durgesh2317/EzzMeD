@@ -5,7 +5,9 @@ export default function Footer() {
     <footer id="footer" className="footer">
       <div className="container footer-content">
         <div className="footer-col">
-          <h3>EzzMed</h3>
+         <div className="logo">
+        <img src="https://i.postimg.cc/fT4tmvSC/logo.jpg" alt="logo" />
+       </div>
           <p>
             Driving healthcare innovation through technology, design, and
             clinical expertise.
@@ -24,7 +26,7 @@ export default function Footer() {
 
         <div className="footer-col">
           <h4>Contact</h4>
-          <p>Email: contact@revealhealthtech.com</p>
+          <p>Email: contact@ezzmed.com</p>
           <p>Phone: +1 (555) 123-4567</p>
           <p>Address: 123 Health St, Innovation City</p>
         </div>
@@ -36,3 +38,4 @@ export default function Footer() {
     </footer>
   );
 }
+
