@@ -20,7 +20,7 @@ export default function Navbar() {
         </button>
 
         <nav className={`nav-links ${open ? "active" : ""}`}>
-          <a href="#network">Reveal Clinical Network</a>
+          <a href="#network">EzzMed Clinical Network</a>
           <a href="#capabilities">Capabilities</a>
           <a href="#ai">AI</a>
           <a href="#case-studies">Case Studies</a>
