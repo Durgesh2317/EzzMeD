@@ -5,11 +5,11 @@ export default function ClinicalNetwork() {
   return (
     <section id="network" className="section clinical-network">
       <div className="container">
-        <h2>Reveal Clinical Network (RCN)</h2>
+        <h2>EzzMed Clinical Network (ECN)</h2>
 
         <p className="rcn-lead">
           We prioritize the clinical perspective during software development. Our
-          Reveal Clinical Network bridges the gap between clinicians and
+          EzzMed Clinical Network bridges the gap between clinicians and
           engineering teams, leading to purposeful healthcare solutions.
         </p>
 
@@ -46,3 +46,4 @@ export default function ClinicalNetwork() {
     </section>
   );
 }
+
