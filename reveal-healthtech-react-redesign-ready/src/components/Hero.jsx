@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="hero-content">
           <h1>We help build healthcare products that matter</h1>
           <p>
-            Reveal HealthTech partners with healthcare organizations to design,
+            EzzMed HealthTech partners with healthcare organizations to design,
             build, and scale digital solutions that improve patient care,
             enhance clinician workflows, and drive better outcomes.
           </p>
